@@ -1,0 +1,5 @@
+data/dataset_debug.pickle
+data/dataset.pickle
+data/testset_oeis.pickle
+data/testset_synth.pickle
+data/README.md
