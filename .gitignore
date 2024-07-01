@@ -3,3 +3,5 @@ data/dataset.pickle
 data/testset_oeis.pickle
 data/testset_synth.pickle
 data/README.md
+common_series_with_gpt_responses.csv
+common_series.csv
