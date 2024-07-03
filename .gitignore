@@ -5,3 +5,4 @@ data/testset_synth.pickle
 data/README.md
 common_series_with_gpt_responses.csv
 common_series.csv
+data/FACT_Dataset.sqlite3
